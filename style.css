@@ -1,0 +1,20 @@
+.container{
+    margin: 3% 10%;
+    width:1000px;
+}
+input{
+    width: 500px;
+    padding:5px;
+
+}
+
+table {
+    width:900px;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 8px;
+  }
